@@ -1,0 +1,2 @@
+# JWsMouseHighlighter
+ Highlights your mouse
