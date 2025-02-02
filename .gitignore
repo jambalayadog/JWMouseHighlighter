@@ -1,0 +1,10 @@
+/build
+/dist
+jwmouse.spec
+jwmousehighlighter.cpp
+JWMouseHighlighter.exe
+mou.py
+profile_results_final.txt
+profile_results_partial.txt
+systrayapp.py
+systrayapp.spec
