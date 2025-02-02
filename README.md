@@ -13,7 +13,7 @@ I get asked occassionally about this highlighter app and it seemed like a nice s
  * Radius
  * Color
  * Transparency
- * # of Markers and Duration
+ * Number of Markers and Duration
 
 Use the Installer, or grab the Python + included icons if you want to go rogue.
 
