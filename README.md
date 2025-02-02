@@ -1,8 +1,6 @@
 # JWsMouseHighlighter
 
-This was a fun little project over the weekend.  
-I was using another mouse highlighter app that requires extra steps and isn't quite as robust, so I decided to write a replacement.  
-I get asked occassionally about this highlighter app and it seemed like a nice small project to practice coding and product development.
+This was a fun little project over the weekend. I was using another mouse highlighter app that requires extra steps and isn't quite as robust, so I decided to write a replacement. I get asked occassionally about this highlighter app and it seemed like a nice small project to practice coding and product development.
  
  What it do:
  * Creates a circular highlighter around your mouse cursor
