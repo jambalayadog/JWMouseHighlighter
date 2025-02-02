@@ -1,8 +1,8 @@
 # JWsMouseHighlighter
 
 This was a fun little project over the weekend.  
-I have a similar app that requires extra steps to setup and isn't quite as robust, so I decided to write a replacement.  
-I get asked occassionally about this feature and it seemed like a nice small project to practice coding.
+I was using another mouse highlighter app that requires extra steps and isn't quite as robust, so I decided to write a replacement.  
+I get asked occassionally about this highlighter app and it seemed like a nice small project to practice coding and product development.
  
  What it do:
  * Creates a circular highlighter around your mouse cursor
@@ -13,12 +13,12 @@ I get asked occassionally about this feature and it seemed like a nice small pro
  * Radius
  * Color
  * Transparency
- * + more
+ * # of Markers and Duration
 
-Installer included.
-
-Python + icons included if you want to go rogue.
+Use the Installer, or grab the Python + included icons if you want to go rogue.
 
 Ideas for future:
-* customize update speed (currently 10ms)
-* remove lag entirely
+* Customize update speed (currently 10ms) or remove lag entirely
+* Code sign and put on Microsoft Store
+* Make it look nicer
+* ???
